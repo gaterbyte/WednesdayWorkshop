@@ -1,11 +1,12 @@
 = Recover Grandpa's PC
 
-My Wednesday Workshop Project this week is recovering my Grandmothers PC.
-Her hard Windows install got messed up, and is super slow.
-When Moving her over to a SSD a few months ago the WD Blue 500 GB Drive up and died.
-Brand new, just died, after only being turned on maybe 10 times.
-So I went and bought a new one, they only had 1 TB at my Local Walmart.
-They also had a vseven USB3.0  dual bay docking station that we will give a try.
+== My Wednesday Workshop Project this week is recovering my Grandmothers PC.
+
+- Her Windows install got messed up, and is super slow.
+- When Moving her over to a SSD a few months ago the WD Blue 500 GB Drive up and died.
+- Brand new, just died, after only being turned on maybe 10 times.
+- So I went and bought a new one, they only had 1 TB at my Local Walmart.
+- They also had a vseven USB3.0  dual bay docking station that we will give a try.
 
 1. Buy 1 TB SSD to reinstall Windows 10 onto
 2. Pull 1 TB Old Spinning Hard Drive (HDD) from PC
