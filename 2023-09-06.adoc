@@ -1,0 +1,22 @@
+= Look into Veilid
+
+== 
+https://veilid.com/
+
+=== https://youtu.be/Kb1lKscAMDQ?si=7Vf1cJ8eXPzbbNPA
+
+* Veilid is an open-source, peer-to-peer, mobile-ﬁrst, networked application framework.
+* The framework is conceptually similar to IPFS and Tor, but faster and designed from the ground-up to provide all services over a privately routed network.
+* The framework enables development of fully-distributed applications without a 'blockchain' or a 'transactional layer' at their base.
+* The framework can be included as part of user-facing applications or run as a 'headless node' for power users who wish to help build the network.
+
+https://gitlab.com/veilid/veilid
+
+
+https://packages.veilid.net/rpm/
+
+https://veilid.com/Launch-Slides-Veilid.pdf
+
+https://gitlab.com/gaterbyte/veilid/-/blob/main/INSTALL.md
+
+https://gitlab.com/veilid/veilid/-/merge_requests/176
