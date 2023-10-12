@@ -1,0 +1,9 @@
+## Workshop Wednesday 
+2023-10-11
+
+* Install RHEL 9 on ZIMA board
+* Install cockpit
+* Install Podman
+* Spin up CTFd container
+* Import Darknet-NG 12 quests
+
